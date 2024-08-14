@@ -1,0 +1,33 @@
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\bin\Release\net8.0-windows7.0\External Tool.exe
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\bin\Release\net8.0-windows7.0\External Tool.deps.json
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\bin\Release\net8.0-windows7.0\External Tool.runtimeconfig.json
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\bin\Release\net8.0-windows7.0\External Tool.dll
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\bin\Release\net8.0-windows7.0\External Tool.pdb
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\bin\Release\net8.0-windows7.0\Newtonsoft.Json.dll
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\External Tool.csproj.AssemblyReference.cache
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\MainWindow.g.cs
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\Pages\Rename.g.cs
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\Pages\TextureCompress.g.cs
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\Popups\FolderSelectionWindow.g.cs
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\Popups\NamingConventionRules.g.cs
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\Templates\FileItemTemplate.g.cs
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\App.g.cs
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\External Tool_MarkupCompile.cache
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\External Tool_MarkupCompile.lref
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\MainWindow.baml
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\Pages\Rename.baml
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\Pages\TextureCompress.baml
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\Popups\FolderSelectionWindow.baml
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\Popups\NamingConventionRules.baml
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\Templates\FileItemTemplate.baml
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\External Tool.g.resources
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\External Tool.GeneratedMSBuildEditorConfig.editorconfig
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\External Tool.AssemblyInfoInputs.cache
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\External Tool.AssemblyInfo.cs
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\External Tool.csproj.CoreCompileInputs.cache
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\External.F396271D.Up2Date
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\External Tool.dll
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\refint\External Tool.dll
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\External Tool.pdb
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\External Tool.genruntimeconfig.cache
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Release\net8.0-windows7.0\ref\External Tool.dll

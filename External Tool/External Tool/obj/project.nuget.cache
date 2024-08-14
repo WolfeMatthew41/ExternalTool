@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DmCp0bDpf6Qrof0gMlqGYE5j0iV4mZgHFGQ/W15ldXfiFmv7MM8tKKtEdCOkrR+akUJLh4ouAq5hBTgmZ3kDJA==",
+  "success": true,
+  "projectFilePath": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\External Tool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\STRIKENSUN41\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\STRIKENSUN41\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|i:\\game development\\portfolio\\tools\\externaltool\\external tool\\external tool\\pages\\rename.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|solutionrelative:external tool\\pages\\rename.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|i:\\game development\\portfolio\\tools\\externaltool\\external tool\\external tool\\popups\\namingconventionrules.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|solutionrelative:external tool\\popups\\namingconventionrules.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|i:\\game development\\portfolio\\tools\\externaltool\\external tool\\external tool\\popups\\namingconventionrules.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|solutionrelative:external tool\\popups\\namingconventionrules.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|i:\\game development\\portfolio\\tools\\externaltool\\external tool\\external tool\\templates\\fileitemtemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|solutionrelative:external tool\\templates\\fileitemtemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|i:\\game development\\portfolio\\tools\\externaltool\\external tool\\external tool\\pages\\rename.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|solutionrelative:external tool\\pages\\rename.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|i:\\game development\\portfolio\\tools\\externaltool\\external tool\\external tool\\templates\\fileitemtemplate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|solutionrelative:external tool\\templates\\fileitemtemplate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|i:\\game development\\portfolio\\tools\\externaltool\\external tool\\external tool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|solutionrelative:external tool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|i:\\game development\\portfolio\\tools\\externaltool\\external tool\\external tool\\pages\\texturecompress.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|solutionrelative:external tool\\pages\\texturecompress.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|i:\\game development\\portfolio\\tools\\externaltool\\external tool\\external tool\\popups\\folderselectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|solutionrelative:external tool\\popups\\folderselectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|i:\\game development\\portfolio\\tools\\externaltool\\external tool\\external tool\\popups\\folderselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|solutionrelative:external tool\\popups\\folderselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|i:\\game development\\portfolio\\tools\\externaltool\\external tool\\external tool\\pages\\texturecompress.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|solutionrelative:external tool\\pages\\texturecompress.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|i:\\game development\\portfolio\\tools\\externaltool\\external tool\\external tool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31FEFB5-9F22-46A6-AF0B-30769A932716}|External Tool\\External Tool.csproj|solutionrelative:external tool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\STRIKENSUN41\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\STRIKENSUN41\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs [Read Only]",
+              "ViewState": "AQIAAHsBAAAAAAAAAAAkwIgBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:29:19.027Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileItemTemplate.xaml",
+              "DocumentMoniker": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Templates\\FileItemTemplate.xaml",
+              "RelativeDocumentMoniker": "External Tool\\Templates\\FileItemTemplate.xaml",
+              "ToolTip": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Templates\\FileItemTemplate.xaml",
+              "RelativeToolTip": "External Tool\\Templates\\FileItemTemplate.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T20:49:46.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileItemTemplate.xaml.cs",
+              "DocumentMoniker": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Templates\\FileItemTemplate.xaml.cs",
+              "RelativeDocumentMoniker": "External Tool\\Templates\\FileItemTemplate.xaml.cs",
+              "ToolTip": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Templates\\FileItemTemplate.xaml.cs",
+              "RelativeToolTip": "External Tool\\Templates\\FileItemTemplate.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:49:49.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NamingConventionRules.xaml",
+              "DocumentMoniker": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Popups\\NamingConventionRules.xaml",
+              "RelativeDocumentMoniker": "External Tool\\Popups\\NamingConventionRules.xaml",
+              "ToolTip": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Popups\\NamingConventionRules.xaml",
+              "RelativeToolTip": "External Tool\\Popups\\NamingConventionRules.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T20:48:59.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NamingConventionRules.xaml.cs",
+              "DocumentMoniker": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Popups\\NamingConventionRules.xaml.cs",
+              "RelativeDocumentMoniker": "External Tool\\Popups\\NamingConventionRules.xaml.cs",
+              "ToolTip": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Popups\\NamingConventionRules.xaml.cs",
+              "RelativeToolTip": "External Tool\\Popups\\NamingConventionRules.xaml.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAcwF8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:49:46.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FolderSelectionWindow.xaml",
+              "DocumentMoniker": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Popups\\FolderSelectionWindow.xaml",
+              "RelativeDocumentMoniker": "External Tool\\Popups\\FolderSelectionWindow.xaml",
+              "ToolTip": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Popups\\FolderSelectionWindow.xaml",
+              "RelativeToolTip": "External Tool\\Popups\\FolderSelectionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T21:19:54.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FolderSelectionWindow.xaml.cs",
+              "DocumentMoniker": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Popups\\FolderSelectionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "External Tool\\Popups\\FolderSelectionWindow.xaml.cs",
+              "ToolTip": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Popups\\FolderSelectionWindow.xaml.cs",
+              "RelativeToolTip": "External Tool\\Popups\\FolderSelectionWindow.xaml.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAcwH0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T21:20:31.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextureCompress.xaml",
+              "DocumentMoniker": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Pages\\TextureCompress.xaml",
+              "RelativeDocumentMoniker": "External Tool\\Pages\\TextureCompress.xaml",
+              "ToolTip": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Pages\\TextureCompress.xaml",
+              "RelativeToolTip": "External Tool\\Pages\\TextureCompress.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T20:14:27.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TextureCompress.xaml.cs",
+              "DocumentMoniker": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Pages\\TextureCompress.xaml.cs",
+              "RelativeDocumentMoniker": "External Tool\\Pages\\TextureCompress.xaml.cs",
+              "ToolTip": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Pages\\TextureCompress.xaml.cs",
+              "RelativeToolTip": "External Tool\\Pages\\TextureCompress.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA6wD0AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:15:01.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rename.xaml",
+              "DocumentMoniker": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Pages\\Rename.xaml",
+              "RelativeDocumentMoniker": "External Tool\\Pages\\Rename.xaml",
+              "ToolTip": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Pages\\Rename.xaml",
+              "RelativeToolTip": "External Tool\\Pages\\Rename.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T20:17:12.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rename.xaml.cs",
+              "DocumentMoniker": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Pages\\Rename.xaml.cs",
+              "RelativeDocumentMoniker": "External Tool\\Pages\\Rename.xaml.cs",
+              "ToolTip": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\Pages\\Rename.xaml.cs",
+              "RelativeToolTip": "External Tool\\Pages\\Rename.xaml.cs",
+              "ViewState": "AQIAAA0BAAAAAAAAAAAAABwBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:17:17.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "External Tool\\MainWindow.xaml",
+              "ToolTip": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\MainWindow.xaml",
+              "RelativeToolTip": "External Tool\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T20:31:48.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "External Tool\\MainWindow.xaml.cs",
+              "ToolTip": "I:\\Game Development\\Portfolio\\Tools\\ExternalTool\\External Tool\\External Tool\\MainWindow.xaml.cs",
+              "RelativeToolTip": "External Tool\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:31:46.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

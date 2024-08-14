@@ -1,0 +1,59 @@
+﻿<Window x:Class="External_Tool.Popups.FolderSelectionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:External_Tool.Popups"
+        mc:Ignorable="d"
+        Title="FolderSelectionWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBlock Text="Folder Path List:"/>
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto"
+                      HorizontalScrollBarVisibility="Auto"
+                      MaxHeight="300">
+            <ListBox x:Name="PathList" Height="275" Background="Transparent"
+                     SelectionChanged="PathList_SelectionChanged"/>
+        </ScrollViewer>
+
+        <Grid HorizontalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="5*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Text="Folder Path: " VerticalAlignment="Center"/>
+
+            <TextBox x:Name="FolderPathBox" Grid.Column="1" Width="250" VerticalAlignment="Center"
+                     TextChanged="FolderPathBox_TextChanged"/>
+
+        </Grid>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="AddPathButton" Content="Add" Height="35" Width="50" Click="OnAddButton" Opacity="0.5"/>
+            <Button x:Name="RemovePathButton" Content="Remove" Height="35" Width="70" Click="OnRemoveButton" Opacity="0.5"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <TextBlock Text="Folder List Name: " VerticalAlignment="Center"/>
+
+            <TextBox x:Name="FolderListNameBox" Grid.Column="1" Width="250" VerticalAlignment="Center"
+                     TextChanged="FolderPathBox_TextChanged"/>
+
+            <Button Content="+" Width="25" VerticalAlignment="Center" Click="OnAddFolderListButton"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <TextBlock Text="Folder List Selection: " VerticalAlignment="Center"/>
+
+            <ComboBox x:Name="FolderListSelector" VerticalAlignment="Center" Width="250"
+                      SelectionChanged="FolderListSelector_SelectionChanged"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button x:Name="ConfirmButton" Content="Okay" Height="35" Width="60" Click="OnOkButton" Opacity="0.5"/>
+            <Button Content="Cancel" Height="35" Width="70" Click="OnCancelButton" />
+        </StackPanel>
+    </StackPanel>
+</Window>

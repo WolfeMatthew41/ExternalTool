@@ -1,0 +1,42 @@
+﻿<Page x:Class="External_Tool.Pages.Rename"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:External_Tool.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Rename">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Folder Selection" Click="FolderSelectionClick"/>
+            <Button Content="Naming Convention Rules" Click="NamingConventionClick"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="1">
+            <TextBlock Text="Folder Path List Selection: "/>
+            <ComboBox x:Name="FolderListSelector" Width="250" SelectionChanged="FolderListSelector_SelectionChanged"/>
+            <TextBlock Text="Naming Rule List: "/>
+            <ComboBox x:Name="NamingRuleList" Width="200" SelectionChanged="NamingRuleList_SelectionChanged"/>
+        </StackPanel>
+
+        <ScrollViewer Grid.Row="2"
+                      VerticalScrollBarVisibility="Auto"
+                      HorizontalScrollBarVisibility="Auto">
+            <ListBox x:Name="FileList" Background="DarkGray"/>
+
+        </ScrollViewer>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="3" HorizontalAlignment="Right">
+            <Button  Content="Apply to all files" Click="OnApply_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>
