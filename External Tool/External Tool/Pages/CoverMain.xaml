@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="External_Tool.Pages.CoverMain"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:External_Tool.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      >
+
+    <StackPanel>
+        <TextBlock Text="External Tool" FontSize="40" HorizontalAlignment="Center"/>
+
+        <TextBlock Text="Texture Compression with bc7enc:" HorizontalAlignment="Center"/>
+        <Button Content="Texture Compression" Width="150" Click="Button_Click"/>
+
+        <TextBlock Text="Batch Organize File Names:" HorizontalAlignment="Center"/>
+        <Button Content="Rename Tool" Width="150" Click="Button_Click_1"/>
+
+        <TextBlock Text="Output Video From Images Through FFMpeg:" HorizontalAlignment="Center"/>
+        <Button Content="FFMpeg Tool" Width="150" Click="Button_Click_2"/>
+    </StackPanel>
+</UserControl>

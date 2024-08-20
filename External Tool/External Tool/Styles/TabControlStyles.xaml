@@ -1,0 +1,48 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="ColorStyles.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+
+    <Style TargetType="TabControl">
+        <Setter Property="Background" Value="{StaticResource DarkestBackgroundColor}" />
+    </Style>
+    
+    <Style TargetType="TabItem">
+        <Setter Property="Template" >
+            <Setter.Value>
+                <ControlTemplate TargetType="TabItem">
+                    <Grid>
+                        <Border Name="Border"
+                                Background="{StaticResource DarkBackgroundColor}"
+                                BorderBrush="{StaticResource BorderColor}"
+                                BorderThickness="1,1,1,0"
+                                CornerRadius="4,4,0,0"
+                                >
+                            <ContentPresenter x:Name="ContentSite"
+                                              VerticalAlignment="Center"
+                                              HorizontalAlignment="Center"
+                                              ContentSource="Header"
+                                              Margin="12,2"
+                                />
+                        </Border>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsSelected" Value="True">
+                            <Setter TargetName="Border" Property="Background" Value="{StaticResource DarkestBackgroundColor}"/>
+                            <Setter TargetName="Border" Property="BorderBrush" Value="{StaticResource BorderColor}"/>
+                            <Setter Property="Foreground" Value="{StaticResource GlobalTextColor}"/>
+                        </Trigger>
+                        <Trigger Property="IsEnabled" Value="False">
+                            <Setter TargetName="Border" Property="Background" Value="{StaticResource DarkBackgroundColor}"/>
+                            <Setter Property="Foreground" Value="{StaticResource GlobalTextColor}"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+</ResourceDictionary>

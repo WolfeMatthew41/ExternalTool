@@ -6,6 +6,7 @@ I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\bin
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\External Tool.csproj.AssemblyReference.cache
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Pages\FFMpegIntegrate.g.cs
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Pages\Rename.g.cs
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Pages\TextureCompress.g.cs
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Popups\FolderSelectionWindow.g.cs
@@ -15,6 +16,7 @@ I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\External Tool_MarkupCompile.cache
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\External Tool_MarkupCompile.lref
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\MainWindow.baml
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Pages\FFMpegIntegrate.baml
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Pages\Rename.baml
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Pages\TextureCompress.baml
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Popups\FolderSelectionWindow.baml
@@ -31,3 +33,14 @@ I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\External Tool.pdb
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\External Tool.genruntimeconfig.cache
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\ref\External Tool.dll
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\App.baml
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Styles\ButtonStyles.baml
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Styles\ColorStyles.baml
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Styles\ComboBoxStyles.baml
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Styles\GeneralStyles.baml
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Styles\TabControlStyles.baml
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Styles\TextStyles.baml
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Pages\TabbedMain.g.cs
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Pages\TabbedMain.baml
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Pages\CoverMain.g.cs
+I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\obj\Debug\net8.0-windows7.0\Pages\CoverMain.baml

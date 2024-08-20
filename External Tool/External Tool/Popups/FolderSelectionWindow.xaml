@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:External_Tool.Popups"
         mc:Ignorable="d"
-        Title="FolderSelectionWindow" Height="450" Width="800">
-    <StackPanel>
+        Background="{StaticResource DarkestBackgroundColor}"
+        Title="FolderSelectionWindow" Height="500" Width="800">
+    <StackPanel VerticalAlignment="Top">
         <TextBlock Text="Folder Path List:"/>
 
         <ScrollViewer VerticalScrollBarVisibility="Auto"
@@ -41,7 +42,7 @@
             <TextBox x:Name="FolderListNameBox" Grid.Column="1" Width="250" VerticalAlignment="Center"
                      TextChanged="FolderPathBox_TextChanged"/>
 
-            <Button Content="+" Width="25" VerticalAlignment="Center" Click="OnAddFolderListButton"/>
+            <Button Content="+" Width="40" VerticalAlignment="Center" Click="OnAddFolderListButton"/>
         </StackPanel>
 
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">

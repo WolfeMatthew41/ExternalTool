@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:External_Tool.Popups"
         mc:Ignorable="d"
-        Title="NamingConventionRules" Height="475" Width="800">
+        Background="{StaticResource DarkestBackgroundColor}"
+        Title="NamingConventionRules" Height="500" Width="800">
     <StackPanel>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
             <TextBlock Text="Folder Path List Selection: "/>
@@ -14,7 +15,7 @@
 
 
         <TextBlock Text="File Naming Convention List"/>
-        <Grid Background="LightGray">
+        <Grid Background="{StaticResource DarkBackgroundHighlightColor}">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
@@ -24,7 +25,7 @@
             <TextBlock Text="File Extension" Grid.Column="1" HorizontalAlignment="Center"/>
         </Grid>
         <ScrollViewer
-                      Background="LightGray" Height="250" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+                      Background="{StaticResource DarkBackgroundHighlightColor}" Height="220" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
             <ListBox x:Name="FileNamingList" Background="Transparent" HorizontalContentAlignment="Stretch"
                      SelectionChanged="FileNamingList_SelectionChanged">
  
@@ -36,7 +37,7 @@
             <TextBlock Text="File Extension Rule: "/>
             <TextBox x:Name="FileExtensionRuleBox" Width="250" TextChanged="FileExtensionRuleBox_TextChanged"/>
             <TextBlock Text="File Extension: "/>
-            <TextBlock x:Name="FileExtensionText" Text="" Width="70" Background="LightGray"/>
+            <TextBlock x:Name="FileExtensionText" Text="" Width="70" Background="{StaticResource DarkBackgroundHighlightColor}"/>
         </StackPanel>
         <Button x:Name="SetRuleButton" Content="Set Rule" Opacity="0.5"  HorizontalAlignment="Center"
                 Click="OnSetRuleButton"/>
@@ -49,7 +50,7 @@
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
             <TextBlock Text="Naming Rule Name: "/>
             <TextBox x:Name="FileExtensionRuleName" Width="200"/>
-            <Button Content="+" Width="25" Click="OnAddNamingListButton"/>
+            <Button Content="+" Width="40" Click="OnAddNamingListButton"/>
         </StackPanel>
         
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
@@ -62,8 +63,8 @@
 
 
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-            <Button x:Name="OkayButton" Content="Okay" Width="50" Opacity="0.5" Click="OnOkayButton"/>
-            <Button Content="Cancel" Width="50" Click="OnCancelButton"/>
+            <Button x:Name="OkayButton" Content="Okay" Width="60" Opacity="0.5" Click="OnOkayButton"/>
+            <Button Content="Cancel" Width="70" Click="OnCancelButton"/>
         </StackPanel>
 
 

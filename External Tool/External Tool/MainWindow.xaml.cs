@@ -26,6 +26,8 @@ namespace External_Tool
         public MainWindow()
         {
             InitializeComponent();
+
+            MainContent.Content = new CoverMain();
         }
 
     }

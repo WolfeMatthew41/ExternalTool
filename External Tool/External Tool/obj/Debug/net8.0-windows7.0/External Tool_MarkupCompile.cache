@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 I:\Game Development\Portfolio\Tools\ExternalTool\External Tool\External Tool\App.xaml
-6-1054484336
+15953553025
 
-91012756788
-1991970841253
-MainWindow.xaml;Pages\Rename.xaml;Pages\TextureCompress.xaml;Popups\FolderSelectionWindow.xaml;Popups\NamingConventionRules.xaml;Templates\FileItemTemplate.xaml;
+121498574912
+199-36954914
+MainWindow.xaml;Pages\CoverMain.xaml;Pages\FFMpegIntegrate.xaml;Pages\Rename.xaml;Pages\TabbedMain.xaml;Pages\TextureCompress.xaml;Popups\FolderSelectionWindow.xaml;Popups\NamingConventionRules.xaml;Styles\ButtonStyles.xaml;Styles\ColorStyles.xaml;Styles\ComboBoxStyles.xaml;Styles\GeneralStyles.xaml;Styles\TabControlStyles.xaml;Styles\TextStyles.xaml;Templates\FileItemTemplate.xaml;
 
 False
 

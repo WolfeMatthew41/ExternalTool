@@ -7,7 +7,16 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Pages\CoverMain.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\FFMpegIntegrate.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Pages\Rename.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\TabbedMain.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Pages\TextureCompress.xaml.cs">
@@ -27,7 +36,16 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Pages\CoverMain.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\FFMpegIntegrate.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Pages\Rename.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\TabbedMain.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Pages\TextureCompress.xaml">
@@ -37,6 +55,24 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Popups\NamingConventionRules.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\ButtonStyles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\ColorStyles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\ComboBoxStyles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\GeneralStyles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\TabControlStyles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\TextStyles.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Templates\FileItemTemplate.xaml">

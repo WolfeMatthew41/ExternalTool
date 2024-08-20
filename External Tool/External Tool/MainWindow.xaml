@@ -6,23 +6,7 @@
         xmlns:local="clr-namespace:External_Tool"
         xmlns:pages="clr-namespace:External_Tool.Pages"
         mc:Ignorable="d"
+        Background="{StaticResource DarkestBackgroundColor}"
         Title="External Tool" Height="450" Width="800">
-    <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="*"/>
-        </Grid.RowDefinitions>
-        <TabControl>
-            <TabItem Header="Texture Compress">
-                <ContentControl>
-                    <Frame Source="/Pages/TextureCompress.xaml"/>
-                </ContentControl>
-            </TabItem>
-            <TabItem Header="Rename Tool">
-                <ContentControl>
-                    <Frame Source="/Pages/Rename.xaml"/>
-                </ContentControl>
-            </TabItem>
-        </TabControl>
-
-    </Grid>
+    <ContentControl x:Name="MainContent"/>
 </Window>
